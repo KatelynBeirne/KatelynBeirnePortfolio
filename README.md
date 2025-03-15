@@ -30,11 +30,13 @@ There was a lot of useful trial and error throughout this project. The best exam
 
 Our final prototype
 After working with our front and backend developer, our team finalized our prototype for cool routes in Worcester. We are looking forward to adding a way to add potential locations for street tree planting. 
-![Final Website](pngs/FinalProduct.png)
+![Final Website](pngs/FinalProduct.PNG)
 
 ### Data in D3: Exploring Housing After Graduation
 Working in a team of 4, I helped choose data for analysis, synthesize a question/purpose, and create data visualizations in order to see where we could live after graduation. Our final product was 4 data visualizations on a website, in addition a 2 minute recording I narrated talking through our design. 
 Throughout our work we kept a detailed process book. This included drafts of data visualizations and how we worked through any challenges as a team. Here is some of my progress, as well as a link to the Github pages link for our data visulizations. 
+
+![Visualization Prototypes](pngs/VisualizationSketches.PNG)
 
 
 ### Horse Genetics Excel Project
