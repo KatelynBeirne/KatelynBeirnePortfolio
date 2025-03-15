@@ -37,6 +37,8 @@ Working in a team of 4, I helped choose data for analysis, synthesize a question
 Throughout our work we kept a detailed process book. This included drafts of data visualizations and how we worked through any challenges as a team. Here is some of my progress, as well as a link to the Github pages link for our data visulizations. 
 
 ![Visualization Prototypes](pngs/VisualizationSketches.PNG)
+![Housing Graph](pngs/Housing.PNG)
+https://katelynbeirne.github.io/D3ProjectForPortfolio/ 
 
 
 ### Horse Genetics Excel Project
