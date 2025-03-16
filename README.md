@@ -7,7 +7,7 @@
         <td><b>Looking For...</b></td>
      </tr>
      <tr>
-       <td><img src="M3.png">
+       <td><img src="https://github.com/KatelynBeirne/KatelynBeirnePortfolio/blob/16aad7416b43f0e0d959ecdbe45cbfb13aae3eae/pngs/M3.png">
            I'm graduating from WPI in May, 2025! 
            Outside of work I enjoy reading, hiking, and raising pet shrimp. </td>
         <td>A full time position in the field of Data Science. I'm passionate about GIS, data visualizations, and learning more about different python libraries. </td>
