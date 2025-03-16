@@ -18,7 +18,7 @@ Data Science Skills: Data visualization, D3 library, spatial optimization, machi
 
 I collected data from an online documenting system for a nuclear power station in Massachusetts. First, I developed a script to parse the data from the online pdfs into an excel sheet. Unfortunately, several of the pdfs had data that was rendered incorrectly, so data collection was done manually. 
 
-After organizing and collecting data, I worked with an industry expert to brainstorm creative, but accesible data visualizations. I researched different data visualization methods, and decided on Flourish to create interactive and colorful visualizations.
+After organizing and collecting data, I worked with an industry expert to brainstorm creative, but accessible data visualizations. I researched different data visualization methods, and decided on Flourish to create interactive and colorful visualizations.
 
 #### My final work
 An interactive timeline map, showing which towns recieved the most nuclear waste shipments over time.
@@ -41,6 +41,7 @@ A simple, but effective interactive bar chart, allowing viewers to dial down int
 
 ![Raster Data](pngs/temperature.PNG)
 ![Shade Data](pngs/shade.PNG)
+
 My team's raster data of Worcester's temperature obtained from the Global Lab; and shade data, obtained from ShadeMap. My personal work on this project involved processing this data so it could be used as costs for pathing in ArcGIS. Temperature data was turned into integer format from float, then combined with Shade Data via the raster calculator tool. From there, our new cost raster was turned into a polygon layer so as to access the attribute table. 
 
 #### Process
@@ -59,6 +60,7 @@ Throughout our work we kept a detailed process book. This included drafts of dat
 
 ![Visualization Prototypes](pngs/VisualizationSketches.PNG)
 ![Housing Graph](pngs/Housing.PNG)
+
 https://katelynbeirne.github.io/D3ProjectForPortfolio/ 
 
 
