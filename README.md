@@ -7,8 +7,7 @@
         <td><b>Looking For...</b></td>
      </tr>
      <tr>
-       <td><img src="https://github.com/KatelynBeirne/KatelynBeirnePortfolio/blob/16aad7416b43f0e0d959ecdbe45cbfb13aae3eae/pngs/M3.png">
-           I'm graduating from WPI in May, 2025! 
+       <td>I'm graduating from WPI in May, 2025! 
            Outside of work I enjoy reading, hiking, and raising pet shrimp. </td>
         <td>A full time position in the field of Data Science. I'm passionate about GIS, data visualizations, and learning more about different python libraries. </td>
      </tr>
@@ -55,10 +54,9 @@ After responding to feedback and finalizing the visualizations, I created an Arc
 - Researched, analyzed and cleaned datasets, resulting in an interactive map exceeding current state-of-the-art methods.
 - Focused on spatial optimization and adapting to climate change with ArcGIS.
 
-#### Here is an example of some of the data I worked with: 
+#### Data
 
-![Raster Data](pngs/temperature.PNG)
-![Shade Data](pngs/shade.PNG)
+![Raster Data](pngs/temperature.PNG) ![Shade Data](pngs/shade.PNG)
 
 My team's raster data of Worcester's temperature obtained from the Global Lab; and shade data, obtained from ShadeMap. My personal work on this project involved processing this data so it could be used as costs for pathing in ArcGIS. Temperature data was turned into integer format from float, then combined with Shade Data via the raster calculator tool. From there, our new cost raster was turned into a polygon layer so as to access the attribute table. 
 
