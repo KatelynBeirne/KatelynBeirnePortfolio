@@ -1,4 +1,19 @@
-# Data Scientist Portfolio
+# Katelyn Beirne's Data Scientist Portfolio
+|||---|||
+
+![A professional photo of myself](pngs/m3.PNG)
+
+*** promo
+#### About Me:
+
+I'm graduating from WPI in May, 2025! 
+Outside of work I enjoy reading, hiking, and raising pet shrimp. 
+
+#### Looking for...
+A full time position in the field of Data Science. I'm passionate about GIS, data visualizations, and learning more about different python libraries. 
+
+***
+|||---|||
 ---
 ## Education &  Skills
 **Worcester Polytechnic Institute**, Anticipated 2025 graduation
@@ -30,6 +45,8 @@ A colorful Sankey diagram, to illustrate flow of shipments from the power statio
 A simple, but effective interactive bar chart, allowing viewers to dial down into specific totals by clicking on the key.
 <div class="flourish-embed flourish-chart" data-src="visualisation/18527381"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/18527381/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
+After responding to feedback and finalizing the visualizations, I created an ArcGIS Storymap in order to display some necessary background and the visualizations for my organization to show on their website. It can be viewed [here](url=https://arcg.is/08vPLu0).
+
 ## Projects
 
 ### Optimizing Locations for Climate Resilience Interventions
@@ -56,12 +73,12 @@ After working with our front and backend developer, our team finalized our proto
 ### Data in D3: Exploring Housing After Graduation
 
 Working in a team of 4, I helped choose data for analysis, synthesize a question/purpose, and create data visualizations in order to see where we could live after graduation. Our final product was 4 data visualizations on a website, in addition a 2 minute recording I narrated talking through our design. 
-Throughout our work we kept a detailed process book. This included drafts of data visualizations and how we worked through any challenges as a team. Here is some of my progress, as well as a link to the Github pages link for our data visulizations. 
+Throughout our work we kept a detailed process book. This included drafts of data visualizations and how we worked through any challenges as a team. Here is some of my progress, as well as a [link](https://katelynbeirne.github.io/D3ProjectForPortfolio/) to the Github pages for our data visulizations. 
 
 ![Visualization Prototypes](pngs/VisualizationSketches.PNG)
 ![Housing Graph](pngs/Housing.PNG)
 
-https://katelynbeirne.github.io/D3ProjectForPortfolio/ 
+
 
 
 ### Horse Genetics Excel Project
