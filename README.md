@@ -1,31 +1,20 @@
 # Katelyn Beirne's Data Scientist Portfolio
 
 <div align="center">
-    <table >
+    <table>
      <tr>
-        <td><b>Table</b></b></td>
-        <td><b>Column</b></td>
+        <td><b>About Me</b></td>
+        <td><b>Looking For...</b></td>
      </tr>
      <tr>
-       <td>column</td>
+       <td>![A professional photo of myself](pngs/m3.PNG)
+           I'm graduating from WPI in May, 2025! 
+           Outside of work I enjoy reading, hiking, and raising pet shrimp. </td>
+        <td>A full time position in the field of Data Science. I'm passionate about GIS, data visualizations, and learning more about different python libraries. </td>
      </tr>
     </table>
     </div>
-|||---|||
-
-![A professional photo of myself](pngs/m3.PNG)
-
-*** promo
-#### About Me:
-
-I'm graduating from WPI in May, 2025! 
-Outside of work I enjoy reading, hiking, and raising pet shrimp. 
-
-#### Looking for...
-A full time position in the field of Data Science. I'm passionate about GIS, data visualizations, and learning more about different python libraries. 
-
-***
-|||---|||
+    
 ---
 ## Education &  Skills
 **Worcester Polytechnic Institute**, Anticipated 2025 graduation
