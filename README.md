@@ -14,22 +14,24 @@ Data Science Skills: Data visualization, D3 library, spatial optimization, machi
 - Created an ArcGIS story map and interactive data visualizations in Flourish.
 - Mentored two data science students, resulting in improved, polished products of data visualizations. 
 
-#### Data
+#### Data & Process
 
 I collected data from an online documenting system for a nuclear power station in Massachusetts. First, I developed a script to parse the data from the online pdfs into an excel sheet. Unfortunately, several of the pdfs had data that was rendered incorrectly, so data collection was done manually. 
 
-#### Process
-
-After organizing and collecting data, I worked with an industry expert to brainstorm creative, but accesible data visualizations. I researched different data visualization methods, and decided on Flourish to create interactive and colorful visualizations. I made several bar charts, sankey diagrams, and an animated timeline map. 
-
-Here are examples of my work:
-<div class="flourish-embed flourish-map" data-src="visualisation/18677633"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/18677633/thumbnail" width="100%" alt="map visualization" /></noscript></div>
+After organizing and collecting data, I worked with an industry expert to brainstorm creative, but accesible data visualizations. I researched different data visualization methods, and decided on Flourish to create interactive and colorful visualizations.
 
 #### My final work
+An interactive timeline map, showing which towns recieved the most nuclear waste shipments over time.
+<div class="flourish-embed flourish-map" data-src="visualisation/18677633"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/18677633/thumbnail" width="100%" alt="map visualization" /></noscript></div>
 
-Can be viewed here: 
+A colorful Sankey diagram, to illustrate flow of shipments from the power station to different towns. 
+<div class="flourish-embed flourish-sankey" data-src="visualisation/18510722"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/18510722/thumbnail" width="100%" alt="sankey visualization" /></noscript></div>
+
+A simple, but effective interactive bar chart, allowing viewers to dial down into specific totals by clicking on the key.
+<div class="flourish-embed flourish-chart" data-src="visualisation/18527381"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/18527381/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 
 ## Projects
+
 ### Optimizing Locations for Climate Resilience Interventions
 - Determined ideal placements for cool routes using heat map analysis and pedestrian traffic patterns, directly impacting citizens by offering shaded pathways during peak summer heat.
 - Researched, analyzed and cleaned datasets, resulting in an interactive map exceeding current state-of-the-art methods.
@@ -51,6 +53,7 @@ After working with our front and backend developer, our team finalized our proto
 ![Final Website](pngs/FinalProduct.PNG)
 
 ### Data in D3: Exploring Housing After Graduation
+
 Working in a team of 4, I helped choose data for analysis, synthesize a question/purpose, and create data visualizations in order to see where we could live after graduation. Our final product was 4 data visualizations on a website, in addition a 2 minute recording I narrated talking through our design. 
 Throughout our work we kept a detailed process book. This included drafts of data visualizations and how we worked through any challenges as a team. Here is some of my progress, as well as a link to the Github pages link for our data visulizations. 
 
