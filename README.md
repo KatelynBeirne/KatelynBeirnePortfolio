@@ -7,9 +7,9 @@
         <td><b>Looking For...</b></td>
      </tr>
      <tr>
-       <td>I'm graduating from WPI in May, 2025! 
+       <td>I graduated from Worcester Polytechnic Institute in May, 2025 with high distinction! 
            Outside of work I enjoy reading, hiking, and raising pet shrimp. </td>
-        <td>A full time position in the field of Data Science. I'm passionate about GIS, data visualizations, and learning more about different python libraries. </td>
+        <td>A full time position in the field of Data Science. I'm passionate about data analytics and visualization, GIS, and learning more about different python libraries. </td>
      </tr>
     </table>
     </div>
@@ -58,8 +58,8 @@ After responding to feedback and finalizing the visualizations, I created an Arc
 <p align="center">
     <img src = "https://github.com/KatelynBeirne/KatelynBeirnePortfolio/blob/f676e1b61186213393f0fdcead1441e5f81a0737/pngs/temperature.PNG">
     <img src = "https://github.com/KatelynBeirne/KatelynBeirnePortfolio/blob/f676e1b61186213393f0fdcead1441e5f81a0737/pngs/shade.PNG">
-![Raster Data](pngs/temperature.PNG) ![Shade Data](pngs/shade.PNG)
 </p>
+![Raster Data](pngs/temperature.PNG) ![Shade Data](pngs/shade.PNG)
 My team's raster data of Worcester's temperature obtained from the Global Lab; and shade data, obtained from ShadeMap. My personal work on this project involved processing this data so it could be used as costs for pathing in ArcGIS. Temperature data was turned into integer format from float, then combined with Shade Data via the raster calculator tool. From there, our new cost raster was turned into a polygon layer so as to access the attribute table. 
 
 #### Process
